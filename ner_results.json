@@ -1,0 +1,1604 @@
+[
+  {
+    "pdf_file": "Aditya_Rahman_CV.pdf",
+    "score": 4,
+    "matched_skills": [
+      "TensorFlow",
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Aditya Rahman"
+      ],
+      "EMAIL": [
+        "aditya.rahman@example.com"
+      ],
+      "PHONE": [
+        "+62-843-6651-7223"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Python",
+        "Deep Learning",
+        "TensorFlow",
+        "Java",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Bima_Santoso_CV.pdf",
+    "score": 4,
+    "matched_skills": [
+      "TensorFlow",
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Bima Santoso"
+      ],
+      "EMAIL": [
+        "bima.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-878-6982-4974"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "Python",
+        "Machine Lear",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Lina_Gunawan_CV.pdf",
+    "score": 4,
+    "matched_skills": [
+      "TensorFlow",
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Lina Gunawan"
+      ],
+      "EMAIL": [
+        "lina.gunawan@example.com"
+      ],
+      "PHONE": [
+        "+62-837-7795-6411"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "Python",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Lina_Rahman_CV.pdf",
+    "score": 4,
+    "matched_skills": [
+      "PyTorch",
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Lina Rahman"
+      ],
+      "EMAIL": [
+        "lina.rahman@example.com"
+      ],
+      "PHONE": [
+        "+62-894-2423-4753"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "PyTorch",
+        "Python",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Rina_Hermanicus_CV.pdf",
+    "score": 4,
+    "matched_skills": [
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Rina Hermanicus"
+      ],
+      "EMAIL": [
+        "rina.hermanicus@example.com"
+      ],
+      "PHONE": [
+        "+62-843-5423-5304"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "PyTorch",
+        "Deep Learning",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Alya_Putri_CV.pdf",
+    "score": 3,
+    "matched_skills": [
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Alya Putri"
+      ],
+      "EMAIL": [
+        "alya.putri@example.com"
+      ],
+      "PHONE": [
+        "+62-815-5250-5466"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Python",
+        "Project Management",
+        "Deep Learn",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Kevin_Rahman_CV.pdf",
+    "score": 3,
+    "matched_skills": [
+      "PyTorch"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Kevin Rahman"
+      ],
+      "EMAIL": [
+        "kevin.rahman@example.com"
+      ],
+      "PHONE": [
+        "+62-840-4432-7022"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "PyTorch",
+        "Project Management",
+        "SQL",
+        "French (Basic)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Sari_Rahman_CV.pdf",
+    "score": 3,
+    "matched_skills": [
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Sari Rahman"
+      ],
+      "EMAIL": [
+        "sari.rahman@example.com"
+      ],
+      "PHONE": [
+        "+62-866-7478-1602"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Java",
+        "Excel",
+        "Python",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Aditya_Putri_CV.pdf",
+    "score": 2,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Aditya Putri"
+      ],
+      "EMAIL": [
+        "aditya.putri@example.com"
+      ],
+      "PHONE": [
+        "+62-896-2676-4854"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "Data Analysis",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Aditya_Setiawan_CV.pdf",
+    "score": 2,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Aditya Setiawan"
+      ],
+      "EMAIL": [
+        "aditya.setiawan@example.com"
+      ],
+      "PHONE": [
+        "+62-875-4485-5917"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Deep Learning",
+        "Project Manag",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Alya_Pratama_CV.pdf",
+    "score": 2,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Alya Pratama"
+      ],
+      "EMAIL": [
+        "alya.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-839-6184-5176"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Java",
+        "Machine Learning",
+        "Deep Learnin",
+        "French (Basic)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Alya_Santoso_CV.pdf",
+    "score": 2,
+    "matched_skills": [
+      "PyTorch",
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Alya Santoso"
+      ],
+      "EMAIL": [
+        "alya.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-887-4688-9986"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "PyTorch",
+        "Python",
+        "French (Basic)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Kevin_Wijaya_CV.pdf",
+    "score": 2,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Kevin Wijaya"
+      ],
+      "EMAIL": [
+        "kevin.wijaya@example.com"
+      ],
+      "PHONE": [
+        "+62-834-4622-7524"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "Indonesian (Native)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Rina_Wijaya_CV.pdf",
+    "score": 2,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Rina Wijaya"
+      ],
+      "EMAIL": [
+        "rina.wijaya@example.com"
+      ],
+      "PHONE": [
+        "+62-826-2268-6801"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Data Analysis",
+        "Machine Learn",
+        "Indonesian (Native)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Sari_Santoso_CV.pdf",
+    "score": 2,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Sari Santoso"
+      ],
+      "EMAIL": [
+        "sari.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-845-9641-2291"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "Deep Learn",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Thomas_Pratama_CV.pdf",
+    "score": 2,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Thomas Pratama"
+      ],
+      "EMAIL": [
+        "thomas.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-856-1636-1210"
+      ],
+      "JOB_TITLE": [
+        "AI Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Deep Learning",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Aditya_Gunawan_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "TensorFlow"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Aditya Gunawan"
+      ],
+      "EMAIL": [
+        "aditya.gunawan@example.com"
+      ],
+      "PHONE": [
+        "+62-882-1666-3275"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "Java",
+        "Indonesian (Native)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Aditya_Pratama_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Aditya Pratama"
+      ],
+      "EMAIL": [
+        "aditya.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-809-3631-2718"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "SQL",
+        "Excel",
+        "Python",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Alya_Setiawan_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "TensorFlow"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Alya Setiawan"
+      ],
+      "EMAIL": [
+        "alya.setiawan@example.com"
+      ],
+      "PHONE": [
+        "+62-801-7941-8434"
+      ],
+      "JOB_TITLE": [
+        "Data Scientist"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "Project Management",
+        "French (Basic)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Bima_Pratama_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "TensorFlow"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Bima Pratama"
+      ],
+      "EMAIL": [
+        "bima.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-894-6385-8483"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "Excel",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Bima_Rahman_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "TensorFlow"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Bima Rahman"
+      ],
+      "EMAIL": [
+        "bima.rahman@example.com"
+      ],
+      "PHONE": [
+        "+62-858-5255-1342"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "Project Management",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Lina_Santoso_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "TensorFlow"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Lina Santoso"
+      ],
+      "EMAIL": [
+        "lina.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-845-6434-2612"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Excel",
+        "TensorFlow",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Rina_Santoso_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Rina Santoso"
+      ],
+      "EMAIL": [
+        "rina.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-842-7594-7772"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Python",
+        "Java",
+        "Machine Learn",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Sari_Pratama_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "PyTorch"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Sari Pratama"
+      ],
+      "EMAIL": [
+        "sari.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-817-5310-3341"
+      ],
+      "JOB_TITLE": [
+        "Data Scientist"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "SQL",
+        "PyTorch",
+        "Project Management",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Sari_Setiawan_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "Python"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Sari Setiawan"
+      ],
+      "EMAIL": [
+        "sari.setiawan@example.com"
+      ],
+      "PHONE": [
+        "+62-856-3333-7560"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Python",
+        "SQL",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Thomas_Gunawan_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "TensorFlow"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Thomas Gunawan"
+      ],
+      "EMAIL": [
+        "thomas.gunawan@example.com"
+      ],
+      "PHONE": [
+        "+62-856-6790-1999"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "TensorFlow",
+        "SQL",
+        "Data Analysis",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Thomas_Hermanicus_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "PyTorch"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Thomas Hermanicus"
+      ],
+      "EMAIL": [
+        "thomas.hermanicus@example.com"
+      ],
+      "PHONE": [
+        "+62-828-2809-4415"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "PyTorch",
+        "Deep Learning",
+        "Project Manage",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Thomas_Santoso_CV.pdf",
+    "score": 1,
+    "matched_skills": [
+      "TensorFlow"
+    ],
+    "ner_data": {
+      "FULL_NAME": [
+        "Thomas Santoso"
+      ],
+      "EMAIL": [
+        "thomas.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-818-1012-9502"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Java",
+        "TensorFlow",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Aditya_Santoso_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Aditya Santoso"
+      ],
+      "EMAIL": [
+        "aditya.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-846-3417-6504"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "Project Ma",
+        "French (Basic)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Aditya_Wijaya_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Aditya Wijaya"
+      ],
+      "EMAIL": [
+        "aditya.wijaya@example.com"
+      ],
+      "PHONE": [
+        "+62-844-9190-7495"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "Deep Learnin",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Alya_Rahman_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Alya Rahman"
+      ],
+      "EMAIL": [
+        "alya.rahman@example.com"
+      ],
+      "PHONE": [
+        "+62-812-5073-2519"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Java",
+        "SQL",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Bima_Gunawan_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Bima Gunawan"
+      ],
+      "EMAIL": [
+        "bima.gunawan@example.com"
+      ],
+      "PHONE": [
+        "+62-829-8363-6025"
+      ],
+      "JOB_TITLE": [
+        "Data Scientist"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "Indonesian (Native)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Bima_Hermanicus_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Bima Hermanicus"
+      ],
+      "EMAIL": [
+        "bima.hermanicus@example.com"
+      ],
+      "PHONE": [
+        "+62-880-9182-3231"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Project Management",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Bima_Setiawan_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Bima Setiawan"
+      ],
+      "EMAIL": [
+        "bima.setiawan@example.com"
+      ],
+      "PHONE": [
+        "+62-882-1960-6467"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Project Management",
+        "Indonesian (Native)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Bima_Wijaya_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Bima Wijaya"
+      ],
+      "EMAIL": [
+        "bima.wijaya@example.com"
+      ],
+      "PHONE": [
+        "+62-878-7077-5033"
+      ],
+      "JOB_TITLE": [
+        "Data Scientist"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Data Analysis",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Kevin_Hermanicus_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Kevin Hermanicus"
+      ],
+      "EMAIL": [
+        "kevin.hermanicus@example.com"
+      ],
+      "PHONE": [
+        "+62-825-9795-3447"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Kevin_Pratama_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Kevin Pratama"
+      ],
+      "EMAIL": [
+        "kevin.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-892-2684-7379"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Excel",
+        "Data Analysis",
+        "Project Mana",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Kevin_Putri_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Kevin Putri"
+      ],
+      "EMAIL": [
+        "kevin.putri@example.com"
+      ],
+      "PHONE": [
+        "+62-890-8349-6285"
+      ],
+      "JOB_TITLE": [
+        "Data Scientist"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Deep Learning",
+        "Project Managem",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Kevin_Santoso_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Kevin Santoso"
+      ],
+      "EMAIL": [
+        "kevin.santoso@example.com"
+      ],
+      "PHONE": [
+        "+62-812-2040-7910"
+      ],
+      "JOB_TITLE": [
+        "Data Scientist"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Java",
+        "Project Management",
+        "Deep Learni",
+        "English (Fluent)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Kevin_Setiawan_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Kevin Setiawan"
+      ],
+      "EMAIL": [
+        "kevin.setiawan@example.com"
+      ],
+      "PHONE": [
+        "+62-856-3223-2097"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Project Management",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Lina_Pratama_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Lina Pratama"
+      ],
+      "EMAIL": [
+        "lina.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-894-7899-2413"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Machine Learning",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Lina_Setiawan_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Lina Setiawan"
+      ],
+      "EMAIL": [
+        "lina.setiawan@example.com"
+      ],
+      "PHONE": [
+        "+62-888-7291-8601 | LinkedIn"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Excel",
+        "Java",
+        "SQL",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Lina_Wijaya_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Lina Wijaya"
+      ],
+      "EMAIL": [
+        "lina.wijaya@example.com"
+      ],
+      "PHONE": [
+        "+62-883-8142-8865"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Deep Learning",
+        "Indonesian (Native)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Rina_Pratama_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Rina Pratama"
+      ],
+      "EMAIL": [
+        "rina.pratama@example.com"
+      ],
+      "PHONE": [
+        "+62-870-8225-2720"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Deep Learning",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Sari_Hermanicus_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Sari Hermanicus"
+      ],
+      "EMAIL": [
+        "sari.hermanicus@example.com"
+      ],
+      "PHONE": [
+        "+62-854-9803-2944"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Deep Learning",
+        "Machine Learnin",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Sari_Putri_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Sari Putri"
+      ],
+      "EMAIL": [
+        "sari.putri@example.com"
+      ],
+      "PHONE": [
+        "+62-894-3215-9320"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "SQL",
+        "Data Analysis",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Sari_Wijaya_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Sari Wijaya"
+      ],
+      "EMAIL": [
+        "sari.wijaya@example.com"
+      ],
+      "PHONE": [
+        "+62-817-8111-6436 | LinkedIn"
+      ],
+      "JOB_TITLE": [
+        "Web Developer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Project Management",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Thomas_Rahman_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Thomas Rahman"
+      ],
+      "EMAIL": [
+        "thomas.rahman@example.com"
+      ],
+      "PHONE": [
+        "+62-842-1516-6528"
+      ],
+      "JOB_TITLE": [
+        "Data Scientist"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Data Analysis",
+        "French (Basic)",
+        "English (Fluent)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Thomas_Setiawan_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Thomas Setiawan"
+      ],
+      "EMAIL": [
+        "thomas.setiawan@example.com"
+      ],
+      "PHONE": [
+        "+62-818-3564-4592"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Data Analysis",
+        "Deep Lea",
+        "Indonesian (Native)",
+        "French (Basic)"
+      ],
+      "LANGUAGE": []
+    }
+  },
+  {
+    "pdf_file": "Thomas_Wijaya_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "Thomas Wijaya"
+      ],
+      "EMAIL": [
+        "thomas.wijaya@example.com"
+      ],
+      "PHONE": [
+        "+62-867-6602-6204"
+      ],
+      "JOB_TITLE": [
+        "Software Engineer"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "Java",
+        "Data Analysis",
+        "Machine Learni",
+        "English (Fluent)",
+        "Indonesian (Native)"
+      ],
+      "LANGUAGE": []
+    }
+  }
+]

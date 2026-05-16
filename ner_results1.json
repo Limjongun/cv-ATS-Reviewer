@@ -1,0 +1,60 @@
+[
+  {
+    "pdf_file": "Andrew_Clark_CV.pdf",
+    "score": 0,
+    "matched_skills": [],
+    "ner_data": {
+      "FULL_NAME": [
+        "ANDREW CLARK"
+      ],
+      "EMAIL": [
+        "IT",
+        "help@enhancv.com",
+        "linkedin.com",
+        "IBM",
+        "Utilize"
+      ],
+      "PHONE": [
+        "+1-541-754-3010 | u",
+        "2014-2018"
+      ],
+      "JOB_TITLE": [
+        "2M",
+        "IT Project",
+        "Strong Leadership",
+        "Efficient Resource"
+      ],
+      "COMPANY": [],
+      "YEARS": [],
+      "DEGREE": [],
+      "MAJOR": [],
+      "UNIVERSITY": [],
+      "SKILL": [
+        "William Davis",
+        "particularly",
+        "to",
+        "2",
+        "resulting",
+        "focus",
+        "on",
+        "functionality",
+        "and",
+        "in",
+        "15",
+        "%",
+        "reduction",
+        "Microsoft",
+        "execution",
+        "and",
+        "requirements",
+        "English (Native)",
+        "Spanish (Advanced)",
+        "Arabic (Beginner)",
+        "teams",
+        "Spearheaded reorganization",
+        "costs"
+      ],
+      "LANGUAGE": []
+    }
+  }
+]
